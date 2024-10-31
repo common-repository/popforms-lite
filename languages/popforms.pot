@@ -1,0 +1,372 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-15 06:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/admin.php:35
+msgid "PopForms Settings"
+msgstr ""
+
+#: admin/admin.php:51
+msgid "Pop Forms Settings"
+msgstr ""
+
+#: admin/admin.php:53
+msgid "General"
+msgstr ""
+
+#: admin/admin.php:54
+msgid "Login/subscribe"
+msgstr ""
+
+#: admin/admin.php:55 inc/contact-form/pop-contact-button.php:17
+msgid "Contact"
+msgstr ""
+
+#: admin/admin.php:56
+msgid "Scripts Load"
+msgstr ""
+
+#. ID
+#: admin/admin.php:96
+msgid "General Settings"
+msgstr ""
+
+#. ID
+#: admin/admin.php:102
+msgid "Login Settings"
+msgstr ""
+
+#. ID
+#: admin/admin.php:108
+msgid "Contact Settings"
+msgstr ""
+
+#. ID
+#: admin/admin.php:114
+msgid "Scripts Settings"
+msgstr ""
+
+#. ID
+#: admin/admin.php:120 admin/admin.php:281
+msgid "Read Me"
+msgstr ""
+
+#: admin/admin.php:129
+msgid "Logo Upload"
+msgstr ""
+
+#: admin/admin.php:136
+msgid "Color"
+msgstr ""
+
+#: admin/admin.php:143
+msgid "Button Color"
+msgstr ""
+
+#. ID
+#: admin/admin.php:152
+msgid "Login Redirect Page"
+msgstr ""
+
+#. ID
+#: admin/admin.php:159
+msgid "Mailchimp API"
+msgstr ""
+
+#. ID
+#: admin/admin.php:166
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: admin/admin.php:175
+msgid "Email To"
+msgstr ""
+
+#: admin/admin.php:182
+msgid "Active Attachment"
+msgstr ""
+
+#: admin/admin.php:189
+msgid "Active Captcha"
+msgstr ""
+
+#: admin/admin.php:196
+msgid "Captcha Site key"
+msgstr ""
+
+#: admin/admin.php:204
+msgid "Bootstrap Unload"
+msgstr ""
+
+#: admin/admin.php:211
+msgid "Material Unload"
+msgstr ""
+
+#: admin/admin.php:279
+msgid "Click read me button to see shortcode list"
+msgstr ""
+
+#: admin/admin.php:290
+msgid "Shortcode and function list"
+msgstr ""
+
+#: admin/admin.php:293
+msgid ""
+"You could use these form set anywhere using shortcode or anywhere to call "
+"the function in your template. There are two shortcode and function for each "
+"form. One for button and another for form."
+msgstr ""
+
+#: admin/admin.php:294
+msgid ""
+"If you want to use the form as a pop up modal form then use the button "
+"shortcode or if you want to use the form in a page then use the form "
+"shortcode."
+msgstr ""
+
+#: admin/admin.php:295
+msgid "Shortcode List:"
+msgstr ""
+
+#: admin/admin.php:297
+msgid "Contact form and button shortcode"
+msgstr ""
+
+#: admin/admin.php:303
+msgid "Forgot password form and button shortcode"
+msgstr ""
+
+#: admin/admin.php:309
+msgid "Subscribe form and button shortcode"
+msgstr ""
+
+#: admin/admin.php:315
+msgid "Signup form and button shortcode"
+msgstr ""
+
+#: admin/admin.php:321
+msgid "Login form and button shortcode"
+msgstr ""
+
+#: admin/admin.php:328
+msgid "Function List:"
+msgstr ""
+
+#: admin/admin.php:331
+msgid "Contact form and button code"
+msgstr ""
+
+#: admin/admin.php:338
+msgid "Forgot password form and button code"
+msgstr ""
+
+#: admin/admin.php:345
+msgid "Subscribe form and button code"
+msgstr ""
+
+#: admin/admin.php:352
+msgid "Signup form and button code"
+msgstr ""
+
+#: admin/admin.php:359
+msgid "Login form and button code"
+msgstr ""
+
+#: admin/admin.php:373
+msgid ""
+"PopForms default load with Bootstrap and Material Design Lite script. If "
+"your theme already loaded Bootstrap and Material Design Lite then please "
+"check on checkbox and save to unload"
+msgstr ""
+
+#: admin/admin.php:384
+msgid "Upload Logo"
+msgstr ""
+
+#: admin/admin.php:418
+msgid "Select Page"
+msgstr ""
+
+#: inc/pop-functions.php:30
+msgid "test logo"
+msgstr ""
+
+#: inc/pop-functions.php:108
+msgid "Full name can not be empty <br>"
+msgstr ""
+
+#: inc/pop-functions.php:111
+msgid "User name can not be empty <br>"
+msgstr ""
+
+#: inc/pop-functions.php:114
+msgid "Email can not be empty <br>"
+msgstr ""
+
+#: inc/pop-functions.php:117
+msgid "Password can not be empty <br>"
+msgstr ""
+
+#: inc/pop-functions.php:135
+msgid "Your account has been created successfully."
+msgstr ""
+
+#: inc/pop-functions.php:155
+msgid "Sorry something wrong. Please try again."
+msgstr ""
+
+#: inc/pop-functions.php:158
+msgid "Thank you, you have been added to our mailing list."
+msgstr ""
+
+#: inc/pop-functions.php:183
+msgid "Name and email cannot be empty"
+msgstr ""
+
+#: inc/pop-functions.php:189
+msgid "Please check on captch"
+msgstr ""
+
+#: inc/pop-functions.php:217
+msgid "Successfully Message send"
+msgstr ""
+
+#: inc/pop-functions.php:220
+msgid "Sorry Message send failed !!!. Try agin"
+msgstr ""
+
+#: inc/pop-functions.php:244
+msgid "Enter a username or e-mail address.."
+msgstr ""
+
+#: inc/pop-functions.php:246
+msgid "Invalid username or e-mail address."
+msgstr ""
+
+#: inc/pop-functions.php:248
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: inc/pop-functions.php:263
+msgid "Your new password"
+msgstr ""
+
+#: inc/pop-functions.php:275
+msgid "Check your email address for you new password."
+msgstr ""
+
+#: inc/pop-functions.php:278
+msgid "Oops something went wrong updaing your account."
+msgstr ""
+
+#: inc/pop-functions.php:284
+msgid "ERROR:"
+msgstr ""
+
+#: inc/contact-form/pop-contact-form.php:34
+#: inc/signup-form/pop-singup-form.php:31
+msgid "Full Name"
+msgstr ""
+
+#: inc/contact-form/pop-contact-form.php:40
+#: inc/forgotpass-form/pop-forgot-form.php:31
+#: inc/signup-form/pop-singup-form.php:39
+#: inc/subscribe-form/pop-subscribe-form.php:32
+msgid "E-mail Address"
+msgstr ""
+
+#: inc/contact-form/pop-contact-form.php:46
+msgid "Subject"
+msgstr ""
+
+#: inc/contact-form/pop-contact-form.php:50
+msgid "Message"
+msgstr ""
+
+#: inc/contact-form/pop-contact-form.php:73
+msgid "Send"
+msgstr ""
+
+#: inc/forgotpass-form/pop-forgot-button.php:15
+msgid "Forgot"
+msgstr ""
+
+#: inc/forgotpass-form/pop-forgot-form.php:35
+msgid "Recover"
+msgstr ""
+
+#: inc/forgotpass-form/pop-forgot-form.php:39
+msgid "No Account?"
+msgstr ""
+
+#: inc/forgotpass-form/pop-forgot-form.php:41
+#: inc/login-form/pop-login-form.php:40
+msgid "Create An Account"
+msgstr ""
+
+#: inc/login-form/pop-login-button.php:17 inc/login-form/pop-login-form.php:32
+#: inc/signup-form/pop-singup-form.php:58
+msgid "Login"
+msgstr ""
+
+#: inc/login-form/pop-login-form.php:26 inc/signup-form/pop-singup-form.php:35
+msgid "Username"
+msgstr ""
+
+#: inc/login-form/pop-login-form.php:30 inc/signup-form/pop-singup-form.php:43
+msgid "Password"
+msgstr ""
+
+#: inc/login-form/pop-login-form.php:37
+msgid "Forgot Password?"
+msgstr ""
+
+#: inc/signup-form/pop-singup-button.php:16
+#: inc/signup-form/pop-singup-form.php:52
+msgid "Singup"
+msgstr ""
+
+#: inc/signup-form/pop-singup-form.php:47
+msgid "Re-Type Password"
+msgstr ""
+
+#: inc/signup-form/pop-singup-form.php:56
+msgid "Already Have An Account?"
+msgstr ""
+
+#: inc/subscribe-form/pop-subscribe-button.php:16
+#: inc/subscribe-form/pop-subscribe-form.php:36
+msgid "Subscribe"
+msgstr ""
+
+#. Name of the plugin
+msgid "PopForms"
+msgstr ""
+
+#. Description of the plugin
+msgid "PopForms - Material Design WordPress Modal Forms Set Plugin"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://themelooks.com/popforms"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeLooks"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themelooks.com/"
+msgstr ""
